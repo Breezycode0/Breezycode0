@@ -17,7 +17,7 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>* Já bebeu água hoje? *</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=7a0000&text_color=FFF&border_radius=3&border_color=36123c&icon_color=7a0000&theme=jolly" alt="GitHub stats">
 
